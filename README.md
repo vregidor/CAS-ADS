@@ -2,8 +2,6 @@
 
 The CAS program at the **University of Bern** runs over **6 modules** targeting **professionals and researchers**.
 
-It covers the **full data cycle**:
-
 ---
 
 ## 🎯 Objectives
