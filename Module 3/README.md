@@ -1,5 +1,3 @@
-# Introduction to Machine Learning and Data Analysis
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
 
 # 🤖 Module 3: Data Analysis and Machine Learning
