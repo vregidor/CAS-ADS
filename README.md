@@ -4,12 +4,6 @@ The CAS program at the **University of Bern** runs over **6 modules** targeting 
 
 It covers the **full data cycle**:
 
-* 🗂️ Data acquisition & management
-* 📊 Data description & visualization
-* 🤖 Machine learning
-* ✅ Best practices & ethics
-* 🧠 Deep learning
-
 ---
 
 ## 🎯 Objectives
