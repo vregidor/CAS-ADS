@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
-
 # 🤖 Module 3: Data Analysis and Machine Learning
 
 Welcome to **Module 3**! 🎉 In this module, we'll dive into **data analysis techniques** and explore **state-of-the-art machine learning** using Python.
