@@ -1,1 +1,0 @@
-The Ames housing dataset info: http://jse.amstat.org/v19n3/decock.pdf
