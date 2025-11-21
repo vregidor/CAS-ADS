@@ -15,7 +15,7 @@ The European grid runs at **50 Hz** ⚡. Frequency varies with **production vs. 
 From 2026:
 
 * PSA will be removed 🔄
-* Incentives to keep open positions will rise ✅
+* Incentives to take positions will rise ✅
 
 This project evaluates if this change could **generate additional profits**. 🚀
  
