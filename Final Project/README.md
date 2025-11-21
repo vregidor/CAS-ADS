@@ -1,4 +1,4 @@
-# ⚡ Final Project: Swissgrid Single-Price Mechanism
+# ⚡ Final Project: Swissgrid Single-Price Mechanism 
 
 My **final project** analyzes whether **keeping open positions** in the Swiss grid could be **profitable** under the new single-price mechanism starting in 2026. 📊💡
 
@@ -18,3 +18,4 @@ From 2026:
 * Incentives to keep open positions will rise ✅
 
 This project evaluates if this change could **generate additional profits**. 🚀
+ 
