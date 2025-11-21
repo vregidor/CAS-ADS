@@ -1,41 +1,32 @@
-📊 Module 2: Statistical Inference for Data Science
+# 📊 Module 2: Statistical Inference for Data Science
 
-Welcome to Module 2! 🎉 In this module, we'll explore the statistical foundations essential for data science.
+Welcome to **Module 2**! 🎉 In this module, we'll explore the **statistical foundations** essential for data science.
 
-🎯 Goal
+## 🎯 Goal
 
-Become familiar with typical statistical concepts for describing and analysing data, and learn the importance of statistical inference in data science.
+Become familiar with **typical statistical concepts** for describing and analysing data, and learn the importance of **statistical inference** in data science.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
-🔢 Descriptive Statistics: Summarize and visualize data
+* 🔢 **Descriptive Statistics**: Summarize and visualize data
+* 📊 **Probability & Distributions**: Understanding variability
+* 🧮 **Statistical Inference**: Hypothesis testing, confidence intervals
+* 🧠 **Application of Theory**: Applying concepts to real datasets
+* 📈 **Drawing Conclusions**: Making scientific interpretations from analysis
 
-📊 Probability & Distributions: Understanding variability
-
-🧮 Statistical Inference: Hypothesis testing, confidence intervals
-
-🧠 Application of Theory: Applying concepts to real datasets
-
-📈 Drawing Conclusions: Making scientific interpretations from analysis
-
-🚀 Learning Outcomes
+## 🚀 Learning Outcomes
 
 By the end of this module, you will be able to:
 
-Describe datasets using statistical measures 📝
+1. Describe datasets using statistical measures 📝
+2. Understand and apply probability and distribution concepts 🎲
+3. Perform statistical inference to support decisions 📊
+4. Draw meaningful conclusions from data analysis results 🔍
 
-Understand and apply probability and distribution concepts 🎲
+## 🔗 Resources
 
-Perform statistical inference to support decisions 📊
-
-Draw meaningful conclusions from data analysis results 🔍
-
-🔗 Resources
-
-Recommended readings and tutorials 📖
-
-Sample datasets for practice 🗃️
-
-Tools for statistical analysis 🛠️
+* Recommended readings and tutorials 📖
+* Sample datasets for practice 🗃️
+* Tools for statistical analysis 🛠️
 
 Happy analyzing! 🌟
